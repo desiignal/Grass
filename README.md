@@ -1,2 +1,2 @@
 # Grass
-GetGrass Linus distributive
+GetGrass Linux distributive
